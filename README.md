@@ -4,4 +4,6 @@ In this notebook, a Computer Vision model for detecting object in images or vide
 ## Prerequisite
 * Python 3.X
 * OpenCv installed (cv2)
-* Required Python packages: Numpy
+* Required Python packages: `Numpy Matplotlib`
+
+
